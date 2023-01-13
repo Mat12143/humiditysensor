@@ -6,4 +6,4 @@ Track the Humidty in the room and it displays the value on the LCD Display with 
 #### The TMP Sensor is only a placeholder, the real sensor is the [DHT11](https://it.aliexpress.com/item/1207150391.html)
 
 ## Photos
-TODO
+![LCD Display](https://github.com/Mat12143/humiditysensor/blob/34d739b31149d9e8f8829e657e7e49f0138a5d28/example.png)
